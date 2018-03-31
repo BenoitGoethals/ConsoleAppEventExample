@@ -1,0 +1,2 @@
+# ConsoleAppEventExample
+init
